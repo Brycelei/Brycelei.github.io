@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/09/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/09/22/%E6%B8%A3%E5%9C%9F/</url>
+    <content><![CDATA[<h2 id="编制说明"><a href="#编制说明" class="headerlink" title="编制说明"></a>编制说明</h2><p>泛海国际居住区二期F地块定向回迁房工程，施工现场因前期居民平房拆除时剩余大量渣土没有外运，F地块工程属于我公司承建，因大量渣土存放不能进行土方开挖，建设单位对我公司十分信任，已决定将该场地渣土委托我公司清运。一次性包清运，保证达到开挖基槽土方条件，具体渣土清运手续，消纳地点由我公司负责，建设单位只负责运后验收场地。根据以上渣土清运事项特编制渣土清运消纳方案。</p>
+<h2 id="编制依据"><a href="#编制依据" class="headerlink" title="编制依据"></a>编制依据</h2><p>法律法规序号法律,法规,编号</p>
+<ul>
+<li>中华人民共和国环境保护法    主席令第22号</li>
+<li>中华人民共和国大气污染防治法    </li>
+<li>北京市水污染物排放标准    </li>
+<li>城市区域环境噪声标准    </li>
+<li>国家《建筑施工场界噪声限值》    </li>
+<li>市政府关于发布本市第九阶段控制大气污染措施的通告    </li>
+</ul>
+]]></content>
+  </entry>
+</search>
